@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
+MAINTAINER David Mkrtchyan
 
 ADD nginx.conf /etc/nginx/
 

@@ -14,7 +14,7 @@
 
 FROM laradock/php-fpm:1.4-71
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
+MAINTAINER David Mkrtchyan
 
 #
 #--------------------------------------------------------------------------
